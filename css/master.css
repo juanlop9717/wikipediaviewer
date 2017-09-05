@@ -1,0 +1,42 @@
+body{
+	background-color: ForestGreen;
+}
+
+
+.title{
+	font-weight: 600;
+	font-size: 2em;
+}
+
+p{
+	font-weight: 300;
+}
+
+div.container{
+	margin-top: 15em;
+}
+
+input[type=text]{
+	color: white;
+}
+
+input{
+	border-color: red;
+}
+
+
+.info-cont{
+	background-color: white;
+	height: auto;
+	width: 100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+
+
+.content{
+	color: red;
+}
