@@ -1,4 +1,4 @@
-# FreeCodeCamp Calculator
+# FreeCodeCamp Wikipedia Viewer
 
 A freecodecamp project. A  Wikipedia article viewer
 
